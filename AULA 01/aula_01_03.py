@@ -4,7 +4,7 @@
 
 n = int(input("Digite um valor: "))
 
-# Processamento dos Dados| eu achei dificil, mas e basicamente a raiz quadrada imputida: e "N" e o numero imputido e a variáveis são a saida das soma:
+# Processamento dos Dados|
 
 quadrado = n * n
 cubo = n * n * n
