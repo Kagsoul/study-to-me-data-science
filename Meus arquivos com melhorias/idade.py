@@ -4,20 +4,21 @@ nome = input ('qual e seu nome: ')
 wich_idade = float (input('qual e a sua idade: '))
 
 print (f'sua idade e {wich_idade:.0f} e voce se chama {nome}: ')
-
-idade = 29
 jovem = 18
+idade = 29
 
-velho =69
 idoso = 30
-while (wich_idade == velho <= idoso ):
+velho =69
+while ( idoso <= wich_idade <= velho ):
     if velho or idoso:
-        print (f"você tem meia idade {wich_idade:.0f}")
+        print (f"você tem meia idade, {wich_idade:.0f} anos")
     break
     
       
-while (wich_idade == jovem >= idade ):
+while (jovem <= wich_idade <= idade ):
     if jovem or idade:
-       print (f'voce e uma pessoa da idade jovem {wich_idade:.0f}')
+       print (f'voce e uma pessoa da idade jovem, {wich_idade:.0f} anos')
     break
  
+
+  
