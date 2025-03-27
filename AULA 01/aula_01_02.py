@@ -4,7 +4,7 @@
 a = int(input("Digite o valor de A: "))
 b = int(input("Digite o valor de B: "))
 
-# Processamento dos Dados| deu a aux o valor A e depois deu o outro valor B que do B ganhou o valor A\aux sendo mesmo valo imputado na A or B 
+# Processamento dos Dados|
 aux = a
 a = b
 b = aux
